@@ -1,5 +1,6 @@
 package homework.pkg2.arrays.strings;
 
+
 public class Task1e_Print2dArray {
 
     public static void main(String[] args) {

@@ -1,5 +1,6 @@
 package homework.pkg2.arrays.strings;
 
+
 import java.util.Arrays;
 import java.util.Scanner;
 

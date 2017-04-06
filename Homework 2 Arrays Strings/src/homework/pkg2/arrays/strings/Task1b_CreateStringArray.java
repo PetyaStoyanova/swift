@@ -1,5 +1,6 @@
 package homework.pkg2.arrays.strings;
 
+
 public class Task1b_CreateStringArray {
 
     public static void main(String[] args) {
